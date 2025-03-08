@@ -32,7 +32,7 @@ Execute the command ``py -3.10 main.py`` to start the program and then it will a
 
 * **Theodore Delbove** _alias_ [@TheodoreDev](https://github.com/theodoredev)
 
-Read here the [contributors](https://github.com/your/project/contributors) list to see who helped.
+Read here the [contributors](https://github.com/TheodoreDev/AI_project/contributors) list to see who helped.
 
 ## License
 
