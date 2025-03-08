@@ -32,6 +32,8 @@ Execute the command ``py -3.10 main.py`` to start the program and then it will a
 
 * **Theodore Delbove** _alias_ [@TheodoreDev](https://github.com/theodoredev)
 
+Read here the [contributors](https://github.com/your/project/contributors) list to see who helped.
+
 ## License
 
 Ce projet est sous licence ``exemple: WTFTPL`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations
